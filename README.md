@@ -3,6 +3,8 @@
 
 - 🔭 I’ve just graduated from **Le Wagon coding bootcamp**
 
+- ⚡ My final project is available at [https://www.telewise.co.uk](https://www.telewise.co.uk)
+
 - 🌱 I’m currently learning **node.js**
 
 <h3 align="left">Connect with me:</h3>
